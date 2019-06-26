@@ -7,6 +7,7 @@ build/
 # External native build folder generated in Android Studio 2.2 and later
 .externalNativeBuild
 =======
+=======
 *.apk
 *.ap_
 *.aab
@@ -65,4 +66,5 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 lint/reports/
->>>>>>> conflict
+=======
+lint/reports/
